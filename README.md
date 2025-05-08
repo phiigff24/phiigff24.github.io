@@ -3,7 +3,7 @@
 ## 專案介紹
 各縣市的旅遊景點
 ## 功能
-[首頁](https://phiigff24.github.io/html5up-massively/index.html#)<br>
+[首頁](https://phiigff24.github.io/html5up-massively/index.html)<br>
 [履歷頁](https://phiigff24.github.io/html5up-massively/generic.html)<br>
 [爬蟲成果展示](https://phiigff24.github.io/html5up-massively/elements.html)
 ## 使用工具
